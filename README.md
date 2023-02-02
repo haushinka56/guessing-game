@@ -11,7 +11,7 @@ Click [here](https://haushinka56.github.io/Guessing-Game/) to start.
 <br>
 
 <p align="center">
-  <img alt="number guessing game" src=".github/screenshot.png" width="100%">
+  <img alt="number guessing game" src=".github\screenshot.png" width="100%">
 </p>
 
 ## How it works
