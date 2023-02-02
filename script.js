@@ -8,6 +8,6 @@ while (guess != secretNumber) {
   } else if (guess > secretNumber) {
     alert("Errou :c \n O número secreto é menor que " + guess + ".");
   } else if (guess < secretNumber) {
-    alert("Errou :c \n O número secreto é maior que" + guess + ".");
+    alert("Errou :c \n O número secreto é maior que " + guess + ".");
   }
 }
