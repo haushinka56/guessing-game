@@ -7,7 +7,7 @@ This project is a part of an event by <a href="https://www.alura.com.br/"> Alura
 
 ## Getting Started
 
-Click [here](https://haushinka56.github.io/Guessing-Game/) to start.
+Click [here](https://haushinka56.github.io/guessing-game/) to start.
 <br>
 
 <p align="center">
